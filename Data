@@ -2,3 +2,6 @@
 The gridded precipitation and temperature dataset (IMDAA) for India can be found at https://rds.ncmrwf.gov.in/datasets.
 While the values of global climate indices are available at https://psl.noaa.gov/enso/dashboard.html. 
 The SPEI package (available at https://github.com/sbegueria/SPEI) was used to calculate the SPEI-3 values.
+The deep learning architectures were built using the 'Keras' and 'PyTorch' libraries.
+The PyTorch Forecasting package (available at https://github.com/sktime/pytorch-forecasting) was employed 
+specifically for the implementation of transformer model.
